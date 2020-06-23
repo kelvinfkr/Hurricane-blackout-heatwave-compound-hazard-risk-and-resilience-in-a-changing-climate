@@ -4,6 +4,11 @@ This is the data set for paper "Hurricane-blackout-heatwave compound hazard risk
 Authors are "Kairui Feng, Ouyang Min, and Ning Lin"
 from "Civil and Environmental Engineering, Princeton University andSchool of Artificial Intelligence and Automation, Huazhong University of Science and Technology"
 
+License(s) 	
+Open Data Commons Attribution
+Creative Commons Attribution Share Alike
+GNU General Public License 
+
 Date: 06/22/2020
 
 For those who use this data set should follow the copy right regulation of both PANS and designsafe.
